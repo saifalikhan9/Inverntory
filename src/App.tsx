@@ -21,14 +21,7 @@ const initialItems: Item[] = [
   { id: 2, name: "Desk Chair", category: "Furniture", quantity: 30 },
   { id: 3, name: "Notebook", category: "Stationery", quantity: 100 },
   { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
-  { id: 4, name: "Printer", category: "Electronics", quantity: 5 },
+
 ];
 
 export default function App() {
