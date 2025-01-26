@@ -1,5 +1,5 @@
 import type React from "react"
-import type { SortKey } from "../types"
+import type { SortKey } from "../lib/types"
 
 interface FilterSortProps {
   filter: string
